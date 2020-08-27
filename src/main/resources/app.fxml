@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<StackPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2"
+           prefHeight="500.0" prefWidth="400.0">
+    <GridPane fx:id="grid" hgap="10.0" style="-fx-padding: 20" vgap="10.0">
+        <Label style="-fx-font-size: 24" text="Cat Adoption Form"
+               GridPane.columnSpan="2147483647"
+               GridPane.halignment="CENTER"/>
+    </GridPane>
+</StackPane>
